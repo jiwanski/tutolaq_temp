@@ -1,0 +1,394 @@
+{
+  "examples": [
+    {
+      "pt": "Sou democrático, falo com todos.",
+      "en": "I'm democratic, I speak to everybody.",
+      "context": [
+        {
+          "context_pt": "Você, vista seu avental.",
+          "context_en": "You, get in your overalls."
+        },
+        {
+          "context_pt": "Sabe com quem está falando?",
+          "context_en": "Say, do you realize to whom you're speaking?"
+        },
+        {
+          "context_pt": "Sou democrático, falo com todos.",
+          "context_en": "I'm democratic, I speak to everybody."
+        },
+        {
+          "context_pt": "Falarei com meu pai de ti.",
+          "context_en": "I'll speak to Papa about you."
+        },
+        {
+          "context_pt": "Fale, seu gordinho malcriado.",
+          "context_en": "Go on, you big tom-boy."
+        }
+      ]
+    },
+    {
+      "pt": "Agora, concentre-se nesta luz enquanto falo.",
+      "en": "Now, focus on this light as I speak.",
+      "context": [
+        {
+          "context_pt": "Não lhe fará dano nenhum.",
+          "context_en": "It won't hurt at all."
+        },
+        {
+          "context_pt": "É só dizer \"sair\" e terminaremos com isso.",
+          "context_en": "Just say, \"out\", and we'll end it."
+        },
+        {
+          "context_pt": "Agora, concentre-se nesta luz enquanto falo.",
+          "context_en": "Now, focus on this light as I speak."
+        },
+        {
+          "context_pt": "Me disse que a sensação que tem, quando os wraiths estão vindo, é de algo frio e escuro dentro de você.",
+          "context_en": "You told me that the feeling that you get from the Wraith is a cold, dark feeling deep inside you."
+        },
+        {
+          "context_pt": "Quero que pense nela.",
+          "context_en": "I want you to think about that."
+        }
+      ]
+    },
+    {
+      "pt": "Vá desligar o Wraith enquanto falo com o capitão.",
+      "en": "Just go and unplug the Wraith, while I talk to the Captain.",
+      "context": [
+        {
+          "context_pt": "Por quê?",
+          "context_en": "Why?"
+        },
+        {
+          "context_pt": "Porque eu estava tentando convencê-los que...",
+          "context_en": "Because I was trying to convince them that..."
+        },
+        {
+          "context_pt": "Vá desligar o Wraith enquanto falo com o capitão.",
+          "context_en": "Just go and unplug the Wraith, while I talk to the Captain."
+        },
+        {
+          "context_pt": "O comunicado está em branco!",
+          "context_en": "The communiqué is blank!"
+        },
+        {
+          "context_pt": "Mas ele ainda deve ter informações.",
+          "context_en": "Yeah, but he might still have some intel about the Wraith weakness."
+        }
+      ]
+    },
+    {
+      "pt": "Ninguém presta tanta atenção quando falo.",
+      "en": "No one else looks at me so intently when I talk.",
+      "context": [
+        {
+          "context_pt": "É verdade.",
+          "context_en": "That's true."
+        },
+        {
+          "context_pt": "Mas agora estou acostumado com você por aqui.",
+          "context_en": "But now I'm sort of used to having you around."
+        },
+        {
+          "context_pt": "Ninguém presta tanta atenção quando falo.",
+          "context_en": "No one else looks at me so intently when I talk."
+        },
+        {
+          "context_pt": "Apenas observando a concorrência.",
+          "context_en": "(Chuckles) Just checking out the competition."
+        },
+        {
+          "context_pt": "Bem, eu gosto disso.",
+          "context_en": "Well, I certainly like that."
+        }
+      ]
+    },
+    {
+      "pt": "Quando falo desrespeitosamente do comando superior.",
+      "en": "When I speak disrespectfully of the high command.",
+      "context": [
+        {
+          "context_pt": "Gosta disso, não é?",
+          "context_en": "You like that, don't you?"
+        },
+        {
+          "context_pt": "Do quê?",
+          "context_en": "Like what, captain?"
+        },
+        {
+          "context_pt": "Quando falo desrespeitosamente do comando superior.",
+          "context_en": "When I speak disrespectfully of the high command."
+        },
+        {
+          "context_pt": "Claro, desperta essa individualidade.",
+          "context_en": "Sure. Brings out that individuality."
+        },
+        {
+          "context_pt": "Ponte, CIC.",
+          "context_en": "Bridge, do."
+        }
+      ]
+    },
+    {
+      "pt": "Sou/ Venho da Bélgica e falo Francês.",
+      "en": "I am (I come) from Belgium and I speak French.",
+      "context": [
+        {
+          "context_pt": "Três deles \"raptam-me\" em pleno Paris para me levarem ao seu esconderijo.",
+          "context_en": "I am \"kidnapped\" by three of them in the middle of Paris to be brought to their lair."
+        },
+        {
+          "context_pt": "Sou/ Venho de Beijing, na China.",
+          "context_en": "I am (I come) from Beijing, China."
+        },
+        {
+          "context_pt": "Sou/ Venho da Bélgica e falo Francês.",
+          "context_en": "I am (I come) from Belgium and I speak French."
+        },
+        {
+          "context_pt": "Sou/ Venho de Madrid.",
+          "context_en": "I am (I come) from Madrid."
+        },
+        {
+          "context_pt": "Eu (não) sou casado (m/f)",
+          "context_en": "I am (not) married. (m/f)"
+        }
+      ]
+    },
+    {
+      "pt": "E coIoco-me em sarilhos porque falo demasiado.",
+      "en": "I get in trouble a lot because I talk too much.",
+      "context": [
+        {
+          "context_pt": "Sei.",
+          "context_en": "Yes."
+        },
+        {
+          "context_pt": "Bebo demasiado.",
+          "context_en": "I drink too much."
+        },
+        {
+          "context_pt": "E coIoco-me em sarilhos porque falo demasiado.",
+          "context_en": "I get in trouble a lot because I talk too much."
+        },
+        {
+          "context_pt": "Às vezes a minha imaginacâo è demasiado vìvida.",
+          "context_en": "Sometimes I have an imagination that's a bit too vivid."
+        },
+        {
+          "context_pt": "AIguma coisa nâo bate certo e nâo sei o que è.",
+          "context_en": "Something's wrong and I don't know what it is."
+        }
+      ]
+    },
+    {
+      "pt": "Diga que falo com meus filhos.",
+      "en": "Known as that I speak to my children.",
+      "context": [
+        {
+          "context_pt": "\"Este apelo à humanidade se deve ao infinito número... de mães sofredoras, viúvas e órfãos... que foram privados da luz... do sustento de suas vidas...\"",
+          "context_en": "This wish, humanity owes it with the infinite number"
+        },
+        {
+          "context_pt": "O que devo fazer?",
+          "context_en": "What to make?"
+        },
+        {
+          "context_pt": "Diga que falo com meus filhos.",
+          "context_en": "Known as that I speak to my children."
+        },
+        {
+          "context_pt": "Ponha música no gramofone para eles dançarem.",
+          "context_en": "Put music, that they dance."
+        },
+        {
+          "context_pt": "E, Sra. Hinze... sorria!",
+          "context_en": "Mrs. Hinze... smile."
+        }
+      ]
+    },
+    {
+      "pt": "Não falo mais do que sabe todo homem.",
+      "en": "And you will find it so; I speak no more than every man doth know.",
+      "context": [
+        {
+          "context_pt": "Essas vantagens trarão o Rei Ricardo abaixo.",
+          "context_en": "And with that odds he weighs King Richard down."
+        },
+        {
+          "context_pt": "Se for a Londres, perceberá.",
+          "context_en": "Post you to London,"
+        },
+        {
+          "context_pt": "Não falo mais do que sabe todo homem.",
+          "context_en": "And you will find it so; I speak no more than every man doth know."
+        },
+        {
+          "context_pt": "E eu sou a última a saber?",
+          "context_en": "And am I last that knows it?"
+        },
+        {
+          "context_pt": "Vamos, garota, vá.",
+          "context_en": "Come, lady, go,"
+        }
+      ]
+    },
+    {
+      "pt": "Fique direito quando falo com você.",
+      "en": "Stand up straight when I talk to you.",
+      "context": [
+        {
+          "context_pt": "Estou cansado de todas estas cadelas e putas, sabe?",
+          "context_en": "I'm tired of all these bitches and hoes, you know?"
+        },
+        {
+          "context_pt": "Requerem de muita atenção.",
+          "context_en": "Too high-maintenance, man."
+        },
+        {
+          "context_pt": "Fique direito quando falo com você.",
+          "context_en": "Stand up straight when I talk to you."
+        },
+        {
+          "context_pt": "Olhe, estou em uma encruzilhada em minha vida.",
+          "context_en": "Look, I'm at a crossroad in my life."
+        },
+        {
+          "context_pt": "Preciso uma saída criativa.",
+          "context_en": "I need a creative outlet."
+        }
+      ]
+    },
+    {
+      "pt": "Adora quando falo em termos técnicos.",
+      "en": "You know you love it when I talk tech.",
+      "context": [
+        {
+          "context_pt": "Abby.",
+          "context_en": "Abby."
+        },
+        {
+          "context_pt": "Ah, que é isso, Gibbs?",
+          "context_en": "Oh, come on, Gibbs."
+        },
+        {
+          "context_pt": "Adora quando falo em termos técnicos.",
+          "context_en": "You know you love it when I talk tech."
+        },
+        {
+          "context_pt": "O que é que tens aí?",
+          "context_en": "What do you got?"
+        },
+        {
+          "context_pt": "Bem, primeiro encontrei que o látex pode ter vindo do carro.",
+          "context_en": "Well, at first I thought the latex might have come from the car."
+        }
+      ]
+    },
+    {
+      "pt": "E sim, falo por experiência.",
+      "en": "And, yes, I speak from experience.",
+      "context": [
+        {
+          "context_pt": "Atracamos com um registo falso.",
+          "context_en": "We've docked under a false registration."
+        },
+        {
+          "context_pt": "Lembrem-se... não chamem atenção desnecessário sobre vocês.",
+          "context_en": "Just remember... don't draw unnecessary attention to yourselves."
+        },
+        {
+          "context_pt": "E sim, falo por experiência.",
+          "context_en": "And, yes, I speak from experience."
+        },
+        {
+          "context_pt": "Achas que ele virá?",
+          "context_en": "Think he'll come?"
+        },
+        {
+          "context_pt": "Se o objectivo é conseguirmos relaxar, espero que não.",
+          "context_en": "In the interest of us getting some actual RR, I hope not."
+        }
+      ]
+    },
+    {
+      "pt": "Desculpe, eu não falo grego.",
+      "en": "I'm sorry, I don't speak a word of Greek.",
+      "context": [
+        {
+          "context_pt": "Sappho, Professor Orlof.",
+          "context_en": "Professor Vladimir Orlov."
+        },
+        {
+          "context_pt": "Você se lembra de algumas de suas poesias?",
+          "context_en": "You don't remember by any chance some of your poetry?"
+        },
+        {
+          "context_pt": "Desculpe, eu não falo grego.",
+          "context_en": "I'm sorry, I don't speak a word of Greek."
+        },
+        {
+          "context_pt": "Que vergonha.",
+          "context_en": "Such a pity."
+        },
+        {
+          "context_pt": "Por favor.",
+          "context_en": "Please."
+        }
+      ]
+    },
+    {
+      "pt": "Sempre falo, mas nunca aprende.",
+      "en": "I don't know what language I should speak to her in.",
+      "context": [
+        {
+          "context_pt": "Onde está a torta?",
+          "context_en": "Where's the cobbler?"
+        },
+        {
+          "context_pt": "Ela colocou no freezer.",
+          "context_en": "She put the cobbler in the fridge again."
+        },
+        {
+          "context_pt": "Sempre falo, mas nunca aprende.",
+          "context_en": "I don't know what language I should speak to her in."
+        },
+        {
+          "context_pt": "Casal gentil, não?",
+          "context_en": "Nice couple."
+        },
+        {
+          "context_pt": "E quanto.",
+          "context_en": "Very."
+        }
+      ]
+    },
+    {
+      "pt": "Não falo da minha vida privada a estranhos.",
+      "en": "I'm not going to discuss my private life with total strangers.",
+      "context": [
+        {
+          "context_pt": "Não falámos já disso?",
+          "context_en": "Didn't we already cover this?"
+        },
+        {
+          "context_pt": "Nunca respondeste.",
+          "context_en": "You never answered the question."
+        },
+        {
+          "context_pt": "Não falo da minha vida privada a estranhos.",
+          "context_en": "I'm not going to discuss my private life with total strangers."
+        },
+        {
+          "context_pt": "É uma faca de dois gumes, não é?",
+          "context_en": "It's kind of a double-edged sword, isn't it?"
+        },
+        {
+          "context_pt": "Uma quê?",
+          "context_en": "A what?"
+        }
+      ]
+    }
+  ]
+}
