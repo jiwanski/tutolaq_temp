@@ -1,0 +1,284 @@
+{
+  "examples": [
+    {
+      "pt": "As pessoas falavam daquele jeito mesmo.",
+      "en": "That's actually how people spoke.",
+      "context": [
+        {
+          "context_pt": "Eles falavam como no cinema, os carros eram iguais aos do cinema.",
+          "context_en": "I mean, I remember, not only did they speak like they did in the movies, but the cars looked like they did in the movies."
+        },
+        {
+          "context_pt": "As pessoas falavam daquele jeito mesmo.",
+          "context_en": "That's actually how people spoke."
+        },
+        {
+          "context_pt": "A cidade era assim mesmo.",
+          "context_en": "That's actually what the place looked like."
+        }
+      ]
+    },
+    {
+      "pt": "Ele e seus homens o falavam.",
+      "en": "A couple of his guys spoke it.",
+      "context": [
+        {
+          "context_pt": "Tenho tempo...",
+          "context_en": "I got time."
+        },
+        {
+          "context_pt": "Conheci Pancho Villa.",
+          "context_en": "I rode with Pancho Villa."
+        },
+        {
+          "context_pt": "Ele e seus homens o falavam.",
+          "context_en": "A couple of his guys spoke it."
+        },
+        {
+          "context_pt": "Mentira.",
+          "context_en": "Bullshit!"
+        },
+        {
+          "context_pt": "Você perguntou.",
+          "context_en": "You asked."
+        }
+      ]
+    },
+    {
+      "pt": "Todos que matei aqui falavam demais.",
+      "en": "Everyone I killed in here talked too much.",
+      "context": [
+        {
+          "context_pt": "As pessoas dizem uma coisa, mas fazem outra.",
+          "context_en": "People say one thing but they do another."
+        },
+        {
+          "context_pt": "É sempre essa besteira.",
+          "context_en": "It's all just bullshit."
+        },
+        {
+          "context_pt": "Todos que matei aqui falavam demais.",
+          "context_en": "Everyone I killed in here talked too much."
+        },
+        {
+          "context_pt": "Não desperdice palavras.",
+          "context_en": "Don't waste words."
+        },
+        {
+          "context_pt": "É melhor não dizer nada.",
+          "context_en": "Just best not to say a thing."
+        }
+      ]
+    },
+    {
+      "pt": "Elas só falavam da matéria em questão.",
+      "en": "They just talked of the subject matter at hand.",
+      "context": [
+        {
+          "context_pt": "Não verdadeiramente.",
+          "context_en": "Not really."
+        },
+        {
+          "context_pt": "As suas notas que acompanhavam os livros nunca eram pessoais.",
+          "context_en": "His notes that accompanied the books were never personal."
+        },
+        {
+          "context_pt": "Elas só falavam da matéria em questão.",
+          "context_en": "They just talked of the subject matter at hand."
+        },
+        {
+          "context_pt": "Ao princípio eu não me importava se ele as mandava ou não.",
+          "context_en": "At first I didn't care if he sent them or not."
+        },
+        {
+          "context_pt": "Eu...",
+          "context_en": "I..."
+        }
+      ]
+    },
+    {
+      "pt": "Os outros dois não falavam muito.",
+      "en": "The other two didn't speak that much.",
+      "context": [
+        {
+          "context_pt": "Logan Mackenzie.",
+          "context_en": "Mackenzie comma... Logan."
+        },
+        {
+          "context_pt": "Mackenzie...",
+          "context_en": "MacKenzie... MacKenzie..."
+        },
+        {
+          "context_pt": "Os outros dois não falavam muito.",
+          "context_en": "The other two didn't speak that much."
+        },
+        {
+          "context_pt": "Pode voltar para Nova York para se divertir, enquanto fico aqui e compro sua parte.",
+          "context_en": "Well, you go on up to New York, have a good time, and I'll just stay here and buy you out."
+        },
+        {
+          "context_pt": "Aproveite sua Ação de Graças.",
+          "context_en": "Enjoy your... Thanksgiving."
+        }
+      ]
+    },
+    {
+      "pt": "Aqueles que falavam do tesouro não mentiam.",
+      "en": "Those that speak of the treasure do not lie.",
+      "context": [
+        {
+          "context_pt": "Assim?",
+          "context_en": "Well?"
+        },
+        {
+          "context_pt": "Tem razão, meu Senhor.",
+          "context_en": "You were right, my lord."
+        },
+        {
+          "context_pt": "Aqueles que falavam do tesouro não mentiam.",
+          "context_en": "Those that speak of the treasure do not lie."
+        },
+        {
+          "context_pt": "Porém suas histórias não lhe fazem justiça.",
+          "context_en": "But their stories do not do it justice."
+        },
+        {
+          "context_pt": "Quer saber como o consegui e de onde eles procedem?",
+          "context_en": "You wish to know how they were won or where they came from?"
+        }
+      ]
+    },
+    {
+      "pt": "O Bob raramente emitia opiniões quando eles falavam.",
+      "en": "Bob would rarely vouchsafe his opinions as they talked.",
+      "context": [
+        {
+          "context_pt": "Eles viajavam para o bar de Topeka... onde o Jesse podia passar quase 60 minutos bebendo um copo de cerveja... e reclamando de se sentir bêbado.",
+          "context_en": "They made trips to the Topeka Exchange Saloon... where Jesse could spend nearly 60 minutes sipping one glass of beer... and still complain about feeling tipsy."
+        },
+        {
+          "context_pt": "O Bob raramente emitia opiniões quando eles falavam.",
+          "context_en": "Bob would rarely vouchsafe his opinions as they talked."
+        },
+        {
+          "context_pt": "E se falasse, grunhia e sorria.",
+          "context_en": "If spoken to, he would fidget and grin."
+        }
+      ]
+    },
+    {
+      "pt": "Já vi filmagens de miúdos que nem falavam.",
+      "en": "I've seen video of kids who, they haven't even talked.",
+      "context": [
+        {
+          "context_pt": "Não vamos gastar 15 mil dólares!",
+          "context_en": "We're not eating 15 grand."
+        },
+        {
+          "context_pt": "Estes testes clínicos...",
+          "context_en": "These clinical trials."
+        },
+        {
+          "context_pt": "Já vi filmagens de miúdos que nem falavam.",
+          "context_en": "I've seen video of kids who, they haven't even talked."
+        },
+        {
+          "context_pt": "E, agora, brincam e riem.",
+          "context_en": "And now they're playing, and they're laughing."
+        },
+        {
+          "context_pt": "O Matthew nunca fará isso, mas a Megan ainda tem uma hipótese.",
+          "context_en": "That'll never be Matthew, but Megan still has a chance."
+        }
+      ]
+    },
+    {
+      "pt": "A nova racionalidade na ciência mudou a forma em que esses pais da pátria falavam sobre religião.",
+      "en": "The new rationality in science changed the way that these Founding Fathers talked about religion.",
+      "context": [
+        {
+          "context_pt": "Pessoas como John Adams e Thomas Paine não viam a vida extraterrestre como uma possibilidade, mas sim como uma questão do fato de que todo mundo sabia que era verdade.",
+          "context_en": "People like John Adams and Thomas Paine didn't view extraterrestrial life as a possibility, but rather as a matter of fact that everybody knew to be true."
+        },
+        {
+          "context_pt": "A nova racionalidade na ciência mudou a forma em que esses pais da pátria falavam sobre religião.",
+          "context_en": "The new rationality in science changed the way that these Founding Fathers talked about religion."
+        },
+        {
+          "context_pt": "E John Adams escreve e lhe dá conselhos de como fazer o recrutamento.",
+          "context_en": "And John Adams writes to him and gives him advice on how to do that hiring."
+        }
+      ]
+    },
+    {
+      "pt": "A Diana e o Mário falavam todo o dia no computador deles.",
+      "en": "Diana and Mario talked all day on their computer.",
+      "context": [
+        {
+          "context_pt": "Estava só.",
+          "context_en": "I was lonely."
+        },
+        {
+          "context_pt": "Depois fiquei obsessivo.",
+          "context_en": "Then I got obsessive."
+        },
+        {
+          "context_pt": "A Diana e o Mário falavam todo o dia no computador deles.",
+          "context_en": "Diana and Mario talked all day on their computer."
+        },
+        {
+          "context_pt": "Eles viviam separados por 3 minutos.",
+          "context_en": "They lived three minutes apart."
+        },
+        {
+          "context_pt": "E aquele perdido, a gastar os dias vendendo drogas na piscina.",
+          "context_en": "And that loser, spending his days selling drugs by the pool."
+        }
+      ]
+    },
+    {
+      "pt": "Sabe, pessoas iam até Chino e falavam com Roman.",
+      "en": "You know, people had been up to Chino and talked to Roman.",
+      "context": [
+        {
+          "context_pt": "Haviam desenhos.",
+          "context_en": "(Koch) There were sketches."
+        },
+        {
+          "context_pt": "Haviam locais.",
+          "context_en": "There were locations."
+        },
+        {
+          "context_pt": "Sabe, pessoas iam até Chino e falavam com Roman.",
+          "context_en": "You know, people had been up to Chino and talked to Roman."
+        },
+        {
+          "context_pt": "Quer dizer, ele foi preparar o filme em Chino.",
+          "context_en": "I mean, he was prepping the movie from Chino."
+        },
+        {
+          "context_pt": "Dino e eu fomos visitar Roman.",
+          "context_en": "(Sidewater) Dino and I went to visit Roman."
+        }
+      ]
+    },
+    {
+      "pt": "Até os meus cinco filhos, não falavam comigo.",
+      "en": "Even my five children would not speak to me.",
+      "context": [
+        {
+          "context_pt": "Meu próprio cinema, que tinha o tom de comédia e se destinava ao gosto de um público popular, nasceu naquele clima de neorrealismo.",
+          "context_en": "Even my films, that had the tone of comedy, and were intended for the tastes of a wide audience, were born in that atmosphere of Neorealism."
+        },
+        {
+          "context_pt": "Até os meus cinco filhos, não falavam comigo.",
+          "context_en": "Even my five children would not speak to me."
+        },
+        {
+          "context_pt": "Até meus amigos do CMI Brasil cairam nessa: \"Chávez renunciou!\"",
+          "context_en": "Even my friends at the Brasil Indymedia fell for it: \"Chávez renunciou!\""
+        }
+      ]
+    }
+  ]
+}

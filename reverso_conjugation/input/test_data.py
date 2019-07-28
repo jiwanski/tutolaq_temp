@@ -1,7 +1,7 @@
 # default
 default_verb = 'falar'
-default_tense = 'Presente'
-default_person = '1'
+default_tense = 'Pretérito Imperfeito'
+default_person = '6'
 
 # parameterized
 verbs = [('falar')]

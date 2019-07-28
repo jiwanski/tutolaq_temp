@@ -1,0 +1,300 @@
+{
+  "examples": [
+    {
+      "pt": "João não recusou responder mas falou aberta e claramente.",
+      "en": "John did not refuse to answer, but spoke out openly and clearly.",
+      "context": [
+        {
+          "context_pt": "As autoridades Judaicas de Jerusalém enviaram alguns sacerdotes a João.",
+          "context_en": "The Jewish authorities in Jerusalem sent some priests and Levites to John."
+        },
+        {
+          "context_pt": "Quem és tu?",
+          "context_en": "Who are you?"
+        },
+        {
+          "context_pt": "João não recusou responder mas falou aberta e claramente.",
+          "context_en": "John did not refuse to answer, but spoke out openly and clearly."
+        },
+        {
+          "context_pt": "Eu não sou o Messias.",
+          "context_en": "I am not the Messiah."
+        },
+        {
+          "context_pt": "Quem és então?",
+          "context_en": "Who are you then?"
+        }
+      ]
+    },
+    {
+      "pt": "O Vice-Presidente falou emocionado sobre as feridas que ficaram.",
+      "en": "The Vice-President spoke emotively about the wounds that this had left.",
+      "context": [
+        {
+          "context_pt": "O Vice-Presidente disse que, em nível pessoal, passos audaciosos foram importantes, como quando ele mesmo pediu perdão aos que foram afetados pelo ataque de tropas sob seu comando em Bor, 1991.",
+          "context_en": "The Vice-President said that, on a personal level, bold steps were needed, such as when he himself apologised to those who had been affected by an attack of troops under his command in Bor in 1991."
+        },
+        {
+          "context_pt": "O Vice-Presidente falou emocionado sobre as feridas que ficaram.",
+          "context_en": "The Vice-President spoke emotively about the wounds that this had left."
+        },
+        {
+          "context_pt": "O vice-presidente pediu aos líderes dos governos estaduais para preparar o terreno para a futura conferência, dizendo que \"a amargura não deve ser autorizada a permanecer para a próxima geração\".",
+          "context_en": "The Vice-President urged the state government leaders to prepare the ground for the upcoming conference, saying that 'bitterness should not be allowed to carry on to the next generation'."
+        }
+      ]
+    },
+    {
+      "pt": "Ele nem falou muito sobre isso.",
+      "en": "Well, you know, he hasn't talked about it really.",
+      "context": [
+        {
+          "context_pt": "Então...",
+          "context_en": "So, um..."
+        },
+        {
+          "context_pt": "O que Frank tem a dizer sobre a investigação 15-6?",
+          "context_en": "What's Frank have to say about this 15-6 investigation?"
+        },
+        {
+          "context_pt": "Ele nem falou muito sobre isso.",
+          "context_en": "Well, you know, he hasn't talked about it really."
+        },
+        {
+          "context_pt": "Sorte sua.",
+          "context_en": "Lucky you."
+        },
+        {
+          "context_pt": "O Kevin quase arrancou meu pescoço essa manhã.",
+          "context_en": "Kevin nearly bit off my head this morning."
+        }
+      ]
+    },
+    {
+      "pt": "E ela falou muito sobre saúde.",
+      "en": "And she talked a lot about health care.",
+      "context": [
+        {
+          "context_pt": "E é sure \"sexy\".",
+          "context_en": "And she sure is sexy."
+        },
+        {
+          "context_pt": "E ama sure jogar com boobies.",
+          "context_en": "And she sure loves to play with boobies."
+        },
+        {
+          "context_pt": "E ela falou muito sobre saúde.",
+          "context_en": "And she talked a lot about health care."
+        },
+        {
+          "context_pt": "Ela nos ensinou a fazer salada de batatas e nossos vizinhos nos ensinaram muitas coisas.",
+          "context_en": "And she taught us how to make potato salad, and our neighbors taught us a lot of things."
+        },
+        {
+          "context_pt": "E pensou: Vou montar uma armadilha.",
+          "context_en": "And she thought: I'm going to set a trap."
+        }
+      ]
+    },
+    {
+      "pt": "Brett nunca falou mal do Warren.",
+      "en": "Brett never said those bad things about Warren.",
+      "context": [
+        {
+          "context_pt": "Pedi que ele viesse para cá com o Warren.",
+          "context_en": "Yeah. I called him, Mary. I told him to pick up Warren and get down here."
+        },
+        {
+          "context_pt": "Tucker mentiu sobre outras coisas.",
+          "context_en": "See, your friend Tucker was lying about a couple of other things."
+        },
+        {
+          "context_pt": "Brett nunca falou mal do Warren.",
+          "context_en": "Brett never said those bad things about Warren."
+        },
+        {
+          "context_pt": "Ele o adora!",
+          "context_en": "He loves Warren."
+        },
+        {
+          "context_pt": "E, pelo que me disse ao telefone, também ama você.",
+          "context_en": "And from what he told me on the phone just now, he loves you too."
+        }
+      ]
+    },
+    {
+      "pt": "Não falou nada sobre o marido.",
+      "en": "Never said anything about the patient's husband.",
+      "context": [
+        {
+          "context_pt": "Eu disse que a aposta estava cancelada se você falasse com o paciente.",
+          "context_en": "I specifically said the bet was off if you contacted the patient."
+        },
+        {
+          "context_pt": "Exatamente.",
+          "context_en": "Exactly."
+        },
+        {
+          "context_pt": "Não falou nada sobre o marido.",
+          "context_en": "Never said anything about the patient's husband."
+        },
+        {
+          "context_pt": "O negócio era uma razão médica por que ela não faz sexo.",
+          "context_en": "The deal was a medical reason why she doesn't have sex."
+        },
+        {
+          "context_pt": "Eu estava travado, até perceber que o problema não era dela, mas sim dele.",
+          "context_en": "I admit I was stuck, until I realized the medical issue was not hers but his."
+        }
+      ]
+    },
+    {
+      "pt": "Julguei que falou de nós quatro.",
+      "en": "I heard you said the \"four\" of us.",
+      "context": [
+        {
+          "context_pt": "50? - A cada um.",
+          "context_en": "Each."
+        },
+        {
+          "context_pt": "E para que não volte a acontecer... ficarão os quatro de castigo.",
+          "context_en": "And to ensure it doesn't happen again, all four of you will receive detention."
+        },
+        {
+          "context_pt": "Julguei que falou de nós quatro.",
+          "context_en": "I heard you said the \"four\" of us."
+        },
+        {
+          "context_pt": "Muito honrosas as suas intenções, mas também estava de pé após o recolher.",
+          "context_en": "Although your honorable intentions, you too were out of bed after hours."
+        },
+        {
+          "context_pt": "Fará companhia aos seus colegas no castigo.",
+          "context_en": "You'll join your classmates in detention."
+        }
+      ]
+    },
+    {
+      "pt": "Marty falou que você tentou matá-lo.",
+      "en": "Marty said that you tried to kill him.",
+      "context": [
+        {
+          "context_pt": "Disse que você tentou matá-lo.",
+          "context_en": "He said that you tried to kill him."
+        },
+        {
+          "context_pt": "Annabelle, o que está fazendo?",
+          "context_en": "Annabelle, what are you doing?"
+        },
+        {
+          "context_pt": "Marty falou que você tentou matá-lo.",
+          "context_en": "Marty said that you tried to kill him."
+        },
+        {
+          "context_pt": "Que deu a ele suco ruim.",
+          "context_en": "He said that you gave him some bad juice."
+        },
+        {
+          "context_pt": "Ele está te procurando, Patrick.",
+          "context_en": "He's looking for you, Patrick."
+        }
+      ]
+    },
+    {
+      "pt": "O Primeiro-Ministro falou de diálogos bastante construtivos.",
+      "en": "The prime minister said the talks were both constructive and frank.",
+      "context": [
+        {
+          "context_pt": "Antes de iniciar a viagem de regresso... reuniu-se uma última vez com o sr. MacDonald.",
+          "context_en": "Mr. Gandhi received a warm welcome from mill workers... before heading back south... for a final meeting with Mr. MacDonald."
+        },
+        {
+          "context_pt": "O Primeiro-Ministro falou de diálogos bastante construtivos.",
+          "context_en": "The prime minister said the talks were both constructive and frank."
+        },
+        {
+          "context_pt": "Felicidades, sr. Gandhi.",
+          "context_en": "So farewell, Mr. Gandhi."
+        }
+      ]
+    },
+    {
+      "pt": "Pastor Gordon me falou de um caso e decidi ver pessoalmente.",
+      "en": "Pastor Gordon Scotty gets a case he want us to look into it. I said I would check it up myself.",
+      "context": [
+        {
+          "context_pt": "Como assim?",
+          "context_en": "What do you mean?"
+        },
+        {
+          "context_pt": "Por 15 anos conseguiu alguma vez me enganar?",
+          "context_en": "In 15 years, have you been able to lie to me?"
+        },
+        {
+          "context_pt": "Pastor Gordon me falou de um caso e decidi ver pessoalmente.",
+          "context_en": "Pastor Gordon Scotty gets a case he want us to look into it. I said I would check it up myself."
+        },
+        {
+          "context_pt": "Lorraine! Pessoalmente.",
+          "context_en": "Lorraine, myself!"
+        },
+        {
+          "context_pt": "Vou com você.",
+          "context_en": "I'm going with you."
+        }
+      ]
+    },
+    {
+      "pt": "Você não falou muito comigo desde Oakland.",
+      "en": "You haven't said much to me since Oakland.",
+      "context": [
+        {
+          "context_pt": "É um pacote para Cecil B. DeMilf.",
+          "context_en": "That's a wrap for Cecil B. DeMilf."
+        },
+        {
+          "context_pt": "Quando Donna vai voltar? - Essa manhã.",
+          "context_en": "When's Donna getting back?"
+        },
+        {
+          "context_pt": "Você não falou muito comigo desde Oakland.",
+          "context_en": "You haven't said much to me since Oakland."
+        },
+        {
+          "context_pt": "Não tenho muita coisa a dizer, eu acho.",
+          "context_en": "I don't got much to say, I guess."
+        },
+        {
+          "context_pt": "Você estava certo.",
+          "context_en": "You were right."
+        }
+      ]
+    },
+    {
+      "pt": "Brennan falou de uma mensagem escrita em um triângulo.",
+      "en": "Brennan said it would have to be a message written within a triangle.",
+      "context": [
+        {
+          "context_pt": "Mas Hodgins pode.",
+          "context_en": "No, but Hodges can."
+        },
+        {
+          "context_pt": "O que estamos procurando?",
+          "context_en": "What are we looking for?"
+        },
+        {
+          "context_pt": "Brennan falou de uma mensagem escrita em um triângulo.",
+          "context_en": "Brennan said it would have to be a message written within a triangle."
+        },
+        {
+          "context_pt": "Algo em relação a Newton.",
+          "context_en": "Something about Newton."
+        },
+        {
+          "context_pt": "Primeiro devemos encontrar 3 coisas que formem um triângulo.",
+          "context_en": "The first thing we do is we find three things that form a triangle."
+        }
+      ]
+    }
+  ]
+}
