@@ -6,7 +6,7 @@ from .context import test_data
 
 
 class TestConjugation:
-    """ Test class for data driven """
+    """ Test class for verb conjugation. """
 
     @pytest.mark.usefixtures("chrome_headless")
     @pytest.mark.parametrize("verb", test_data.verbs)
