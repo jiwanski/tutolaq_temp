@@ -20,7 +20,7 @@ class TestConjugation:
         conjugation_page.switch_tab()
 
         translation_page = TranslationPage(self.driver)
-        translation_page.close_register()
+        # translation_page.close_register()
         els = translation_page.find_examples(3)
         examples = translation_page.store_examples(els)
 
